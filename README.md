@@ -122,7 +122,7 @@ cblas_dgemv = 1.5
 cblas_dgemm = 2.0
 ```
 
-## 8. 项目结构
+## 8. Project Structure
 ```bash
 blas_benchmark/
 ├── config.toml                # Default config
